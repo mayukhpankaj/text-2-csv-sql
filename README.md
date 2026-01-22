@@ -2,6 +2,9 @@
 
 A FastAPI application for CSV → SQLite ETL and analytics for trading data.
 
+<img width="3120" height="2032" alt="Untitled" src="https://github.com/user-attachments/assets/a5e93c91-45ad-487a-83e8-2f1500fa5101" />
+
+
 ## Features
 
 - ETL pipeline to load trades and holdings from CSV files into SQLite database
